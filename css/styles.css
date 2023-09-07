@@ -16,6 +16,15 @@ ul {
     background-color: #FFF;
 }
 
+.header-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-logo-flex {
+    display: flex;
+}
+
 .logo {
     color: #4D5AE5;
     font-family: "Raleway", sans-serif;
@@ -28,6 +37,11 @@ ul {
 
 .logo .accent {
     color: #2E2F42;
+}
+
+.nav-flex {
+    display: flex;
+    gap: 40px;
 }
 
 .nav-link {
@@ -48,6 +62,11 @@ ul {
 
 .address {
     font-style: normal;
+}
+
+.address-flex {
+    display: flex;
+    gap: 40px;
 }
 
 .address-link {
