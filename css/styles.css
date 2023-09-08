@@ -14,15 +14,19 @@ ul {
 
 .header {
     background-color: #FFF;
+    padding: 24px 156px 24px 156px;
 }
 
 .header-container {
     display: flex;
     justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 .nav-logo-flex {
     display: flex;
+    gap: 76px;
 }
 
 .logo {
@@ -88,6 +92,12 @@ ul {
 
 .solutions-section {
     background-color: #2E2F42;
+    padding: 188px 472px;
+}
+
+.solutions-containe {
+    display: flex;
+    align-self: center;
 }
 
 .solutions-header {
@@ -126,6 +136,11 @@ ul {
 
 .our-advantages-section {
     background-color: #FFF;
+}
+
+.advantages-container {
+    display: flex;
+    justify-content: space-between;
 }
 
 .header-normal {
