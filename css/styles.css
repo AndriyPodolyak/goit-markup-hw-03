@@ -17,18 +17,22 @@ ul {
 .header {
     background-color: #FFF;
     padding: 24px 156px 24px 156px;
+    border-bottom: 1px solid #e7e9fc
 }
 
-.header-container {
+.container {
     display: flex;
     justify-content: space-between;
-    max-width: 1200px;
+    max-width: 1158px;
     margin: 0 auto;
+    padding: 0 15px;
 }
 
 .nav-logo-flex {
     display: flex;
     gap: 76px;
+    margin-right: 76px;
+    padding: 24px 0;
 }
 
 .logo {
@@ -48,6 +52,7 @@ ul {
 .nav-flex {
     display: flex;
     gap: 40px;
+    align-items: center;
 }
 
 .nav-link {
