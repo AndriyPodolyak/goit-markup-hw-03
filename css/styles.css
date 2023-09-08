@@ -165,6 +165,10 @@ ul {
     background-color: #F4F4FD;
 }
 
+img {
+    display: block;
+}
+
 .team-title {
     color: #2e2f42;
     font-family: Roboto;
