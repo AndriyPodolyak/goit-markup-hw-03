@@ -32,6 +32,8 @@ ul {
     display: flex;
     gap: 76px;
     padding: 24px 0
+    align-items: center;
+    padding: 24px 0;
 }
 
 .logo {
@@ -46,7 +48,7 @@ ul {
     padding: 24px 0;
 }
 
-.logo .accent {
+.logo.accent {
     color: #2E2F42;
 }
 
