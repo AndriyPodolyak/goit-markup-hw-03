@@ -31,8 +31,7 @@ ul {
 .nav-logo-flex {
     display: flex;
     gap: 76px;
-    margin-right: 76px;
-    padding: 24px 0;
+   
 }
 
 .logo {
@@ -43,6 +42,8 @@ ul {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    margin-right: 76px;
+    padding: 24px 0;
 }
 
 .logo .accent {
@@ -52,7 +53,7 @@ ul {
 .nav-flex {
     display: flex;
     gap: 40px;
-    align-items: center;
+    
 }
 
 .nav-link {
@@ -62,6 +63,7 @@ ul {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    align-items: center;
 }
 .nav-link:hover {
     color: #404BBF;  
