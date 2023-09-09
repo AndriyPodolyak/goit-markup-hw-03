@@ -31,7 +31,7 @@ ul {
 .nav-logo-flex {
     display: flex;
     gap: 76px;
-   
+    padding: 24px 0
 }
 
 .logo {
@@ -53,7 +53,7 @@ ul {
 .nav-flex {
     display: flex;
     gap: 40px;
-    
+    align-items: center;
 }
 
 .nav-link {
