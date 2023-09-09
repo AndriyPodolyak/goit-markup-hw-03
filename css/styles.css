@@ -181,6 +181,10 @@ ul {
     gap: 24px;
 }
 
+.our-advantages-li {
+    width: calc((100% - 72px) / 4);
+}
+
 .header-normal {
     color: #2e2f42;
     font-family: Roboto;
