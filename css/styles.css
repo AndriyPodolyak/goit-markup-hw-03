@@ -6,6 +6,7 @@ body {
 
 a {
     text-decoration: none;
+    display: inline-block;
 }
 
 ul {
@@ -49,7 +50,7 @@ ul {
     color: #2E2F42;
 }
 
-.nav-flex {
+.nav {
     display: flex;
     gap: 40px;
     align-items: center;
@@ -223,6 +224,7 @@ img {
 
 .footer {
     background-color: #2E2F42;
+    padding: 100px 0;
 }
 
 .logo-footer {
