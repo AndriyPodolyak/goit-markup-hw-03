@@ -73,12 +73,16 @@ ul {
 }
 
 .address {
+    display: flex;
     font-style: normal;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .address-flex {
     display: flex;
     gap: 40px;
+    align-items: center;
 }
 
 .address-link {
