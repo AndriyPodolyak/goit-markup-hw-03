@@ -235,10 +235,14 @@ img {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .logo-accent-footer {
     color: #F4F4FD;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .footer-p {
