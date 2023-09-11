@@ -44,8 +44,6 @@ ul {
 
 .nav-logo-flex {
     display: flex;
-    gap: 76px;
-    padding: 24px 0;
     align-items: center;
 }
 
@@ -93,7 +91,6 @@ ul {
     display: flex;
     font-style: normal;
     align-items: center;
-    padding: 24px 0;
 }
 
 .address-flex {
