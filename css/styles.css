@@ -126,7 +126,7 @@ ul {
 
 .solutions-section {
     background-color: #2E2F42;
-    padding: 188px auto;
+    padding: 188px 0;
 }
 
 .solutions-header {
@@ -139,6 +139,9 @@ ul {
     letter-spacing: 0.02em;
     text-decoration: none;
     max-width: 496px;
+    margin-bottom: 48px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .solutions-header:hover {
